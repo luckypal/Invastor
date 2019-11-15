@@ -1,9 +1,3 @@
-### Important
-```
-LuckyPal IT started this project from August 2018 and launched at March 2019.
-Under NDA sign, we can't public source and requirement documents, but you can check project under agreement.
-```
-
 # Invastor
 Delivery system for App and Web similar to Uber
 
